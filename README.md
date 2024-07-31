@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿This is a user-friendly library that can be imported into LABView by using the .NET library object.
 
-namespace ClassLibraryTestApp.Properties.PublishProfiles
-{
-    class README
-    {
-    }
-}
+It requires the MCCdaq I/O installation which can be found here:
+https://digilent.com/reference/software/universal-library/windows/start
+
+
+
